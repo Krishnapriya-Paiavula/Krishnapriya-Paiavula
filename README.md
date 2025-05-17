@@ -3,7 +3,7 @@
 - 👀 I’m interested in Full Stack Web Development, Machine Learning, and Cloud Computing
 - 🌱 I’m currently learning Advanced Data Structures, Machine Learning
 - 💞️ I’m looking to collaborate on Real-world full stack apps, empowering open-source tools, and explainable ML research
-- 📫 Reach me through my LinkedIn
+- 📫 Reach me on my LinkedIn
 - 😄 Pronouns: She/Her
 
 
